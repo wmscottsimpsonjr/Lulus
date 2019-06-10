@@ -1,0 +1,41 @@
+/* author: Scott Simpson */
+
+.menulinks {
+    text-align: center;
+}
+
+hr .menu {
+  border: 1px solid #000000; }
+  
+.menuname {
+  color: #008000;
+  font-weight: bold;  }
+
+.menukey {
+  text-align: right;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}  
+
+.menudesc {
+	padding-bottom:1em;
+}
+
+.menupdf {
+	text-align: right;
+}
+  
+.gl {
+  color: #c284c9;
+  font-weight: bold;
+}
+
+.sf {
+  color: #d15b57;
+  font-weight: bold;
+}
+
+.nf {
+  color: #ffd468;
+  font-weight: bold;
+}

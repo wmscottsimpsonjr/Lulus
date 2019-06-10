@@ -1,0 +1,47 @@
+/* 
+    Created on : Mar 27, 2019, 7:30:05 PM
+    Author     : wmscottsimpsonjr
+*/
+
+#helmet {
+    text-align: center;
+}
+
+.gallery {
+	padding-top: 1em;
+}
+
+.gallery img {
+	width: 32%;
+	padding: 3px;
+}
+
+li{
+   list-style: none;
+   padding-left: 10%;
+   padding-top: 10px;
+}
+
+li:before{
+   content: '';
+   display: inline-block;
+   height: 19px;   
+   width: 19px;
+   background-image: url("../images/bullet_broccoli.jpg");
+   background-size:contain;
+   background-repeat: no-repeat;
+   background-position: left center;
+}
+
+li a, li a:visited {
+    color: #43a554;
+}
+
+li a:hover {
+    color: #ff6a00; }
+
+li a:active {
+  color: #4cff00; }
+  
+p {
+  padding-bottom: 1em; }
